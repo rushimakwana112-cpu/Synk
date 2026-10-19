@@ -19,8 +19,8 @@ A note, a screen-time tracker and a cheeky panther cub for Windows, working toge
 | | App | What it does |
 |---|---|---|
 | 📝 | **Blink Notes** | One beautiful note on your desktop, saved automatically and synced live with your phone. Sign in with **your own email**: your note is private. |
-| ⏱ | **Screen Time** | Today's real app usage on your PC: total time and time per app. Nothing leaves your PC. |
-| 🐾 | **Blue Panther** | A blue panther cub who lives on your taskbar. Pet him, poke him, throw him, **double-click near him and he chases your cursor**. He reminds you to take breaks. |
+| ⏱ | **Screen Time** | Today's real app usage on your PC: total time and time per app, in the same colour as your note. Nothing leaves your PC. |
+| 🐾 | **Blue Panther** | A blue panther cub with real feelings who lives on your taskbar. Pet him and he purrs; annoy him and he gets angry; throw him around and he cries until you make up. He chases your cursor, watches you write in Blink, reminds you of breaks and of times you write in your note, and sends you back to work when you've played too long. |
 | ⚙️ | **Synk** | One window to start, stop and check everything (Start menu → **Synk**). |
 
 ## Install (Windows 10 / 11)
