@@ -41,7 +41,7 @@ installs it and restarts by itself. The Android app asks you to update when a ne
 
 ## Privacy
 
-Every Blink account has its own private note; nobody else can read it. Screen Time and Blue Panther
+Every Blink account has its own private note; no other user can read it. Screen Time and Blue Panther
 keep everything on your PC.
 
 ---
