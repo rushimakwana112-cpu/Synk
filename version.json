@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9",
-    "url":  "https://github.com/rushimakwana112-cpu/Synk/releases/download/v1.0.9/Synk-Setup.zip",
-    "sha256":  "58ba3b533af79e119bb526b012cdeaea60954e12b612445c1f846979480777c7",
+    "version":  "1.10.0",
+    "url":  "https://github.com/rushimakwana112-cpu/Synk/releases/download/v1.10.0/Synk-Setup.zip",
+    "sha256":  "75ba8a1466326c2324ce27e4fce5cdd2a4aa630cdd949ef57934a7cf5dc50039",
     "min_apk":  10,
-    "apk":  "https://github.com/rushimakwana112-cpu/Synk/releases/download/v1.0.9/BlinkNotes.apk"
+    "apk":  "https://github.com/rushimakwana112-cpu/Synk/releases/download/v1.10.0/BlinkNotes.apk"
 }
