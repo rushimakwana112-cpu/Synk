@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="brand/synk-logo.png" width="160" alt="Synk logo">
-</p>
-
-<h1 align="center">Synk</h1>
-<p align="center"><b>Your desktop. Your workflow. Your rules.</b><br>
-A note, a screen-time tracker and a cheeky panther cub for Windows, working together as one system.</p>
+<a href="https://github.com/rushimakwana112-cpu/Synk/releases/latest/download/Synk-Setup.zip">
+  <img src="brand/synk-banner.png" width="100%" alt="Synk: your desktop, your workflow, your rules. A note, a screen-time tracker and a cheeky panther cub for Windows, working as one system.">
+</a>
 
 <p align="center">
   <a href="https://github.com/rushimakwana112-cpu/Synk/releases/latest/download/Synk-Setup.zip"><b>⬇ Download Synk for Windows</b></a>
